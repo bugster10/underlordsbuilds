@@ -1,0 +1,16 @@
+.build-btn {
+  height:150px;
+  width:150px;
+  background-size: cover;
+}
+
+.badge {
+  color: black;
+  border: 1px solid #999;
+  background-color: rgba(128, 128, 128, 0.507);
+  white-space: pre-line;
+}
+
+.build-btn-img {
+  position: absolute;
+}
